@@ -5,23 +5,43 @@
     <link>http://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Mar 2021 15:18:28 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Started Guide</title>
-      <link>http://example.org/categories/</link>
-      <pubDate>Fri, 05 Mar 2021 17:12:57 -0800</pubDate>
+      <title>Use Cases</title>
+      <link>http://example.org/use-cases/</link>
+      <pubDate>Mon, 08 Mar 2021 15:41:07 -0800</pubDate>
       
-      <guid>http://example.org/categories/</guid>
-      <description></description>
+      <guid>http://example.org/use-cases/</guid>
+      <description>alreoighty </description>
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>http://example.org/tags/</link>
+      <title>Something</title>
+      <link>http://example.org/literature/something/</link>
+      <pubDate>Mon, 08 Mar 2021 15:18:28 -0800</pubDate>
+      
+      <guid>http://example.org/literature/something/</guid>
+      <description>Visa domini hanc velit vaccae Tamen ego vagina ruent citius Lorem markdownum molibus videt pontum isdem, Solis per cumque Herculeos calcare. Hinc sed mei fuga navita, quae honore vulnere funera, mitior in sustinet.
+ Declivia commissaque sedit Cimmerios Gorgonis retices finibus Sorores frigida sit Moriens fidis Quae fetus carnes Poena haec et  Venturi est occupat stetit Pectora haec minus tinctam: nec arma premens servant popularia, pinus vinctumque quem. Imagine Antiphates molliri Athin tuens fidemque sidera: flammas ulterius.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started Guide</title>
+      <link>http://example.org/getting-started-guide/</link>
+      <pubDate>Fri, 05 Mar 2021 17:12:57 -0800</pubDate>
+      
+      <guid>http://example.org/getting-started-guide/</guid>
+      <description>This is where the web platform will live! Creating the env conda create -n venv_tess python=3.8 conda activate venv_tess pip install -r requirements.txt Ensure you install mysql - first time only! brew install mysql brew services start mysql mysqladmin -u root password &amp;#39;password&amp;#39; brew services stop mysql Checking out the DB brew services start mysql # I use TablePlus, so at this point, launch tableplus and add in the parameters you created above # namely, localhost, username = root and password.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
       <pubDate>Fri, 05 Mar 2021 17:08:41 -0800</pubDate>
       
-      <guid>http://example.org/tags/</guid>
-      <description>This is tags.md</description>
+      <guid>http://example.org/contact/</guid>
+      <description>Loading… </description>
     </item>
     
   </channel>
