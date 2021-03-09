@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>derins.github.io/</link>
+    <link>https://derins.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 15:18:28 -0800</lastBuildDate><atom:link href="derins.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Mar 2021 15:18:28 -0800</lastBuildDate><atom:link href="https://derins.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Use Cases</title>
-      <link>derins.github.io/use-cases/</link>
+      <link>https://derins.github.io/use-cases/</link>
       <pubDate>Mon, 08 Mar 2021 15:41:07 -0800</pubDate>
       
-      <guid>derins.github.io/use-cases/</guid>
+      <guid>https://derins.github.io/use-cases/</guid>
       <description>alreoighty </description>
     </item>
     
     <item>
       <title>Something</title>
-      <link>derins.github.io/literature/something/</link>
+      <link>https://derins.github.io/literature/something/</link>
       <pubDate>Mon, 08 Mar 2021 15:18:28 -0800</pubDate>
       
-      <guid>derins.github.io/literature/something/</guid>
+      <guid>https://derins.github.io/literature/something/</guid>
       <description>Visa domini hanc velit vaccae Tamen ego vagina ruent citius Lorem markdownum molibus videt pontum isdem, Solis per cumque Herculeos calcare. Hinc sed mei fuga navita, quae honore vulnere funera, mitior in sustinet.
  Declivia commissaque sedit Cimmerios Gorgonis retices finibus Sorores frigida sit Moriens fidis Quae fetus carnes Poena haec et  Venturi est occupat stetit Pectora haec minus tinctam: nec arma premens servant popularia, pinus vinctumque quem. Imagine Antiphates molliri Athin tuens fidemque sidera: flammas ulterius.</description>
     </item>
     
     <item>
       <title>Getting Started Guide</title>
-      <link>derins.github.io/getting-started-guide/</link>
+      <link>https://derins.github.io/getting-started-guide/</link>
       <pubDate>Fri, 05 Mar 2021 17:12:57 -0800</pubDate>
       
-      <guid>derins.github.io/getting-started-guide/</guid>
+      <guid>https://derins.github.io/getting-started-guide/</guid>
       <description>This is where the web platform will live! Creating the env conda create -n venv_tess python=3.8 conda activate venv_tess pip install -r requirements.txt Ensure you install mysql - first time only! brew install mysql brew services start mysql mysqladmin -u root password &amp;#39;password&amp;#39; brew services stop mysql Checking out the DB brew services start mysql # I use TablePlus, so at this point, launch tableplus and add in the parameters you created above # namely, localhost, username = root and password.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>derins.github.io/contact/</link>
+      <link>https://derins.github.io/contact/</link>
       <pubDate>Fri, 05 Mar 2021 17:08:41 -0800</pubDate>
       
-      <guid>derins.github.io/contact/</guid>
+      <guid>https://derins.github.io/contact/</guid>
       <description>Loading… </description>
     </item>
     
